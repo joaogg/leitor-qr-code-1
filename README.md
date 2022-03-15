@@ -1,2 +1,2 @@
-# leitor-qr-code-1
-Leitor de QR Code 1
+# react-native-estudos-1
+React Native Estudos 1
